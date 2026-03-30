@@ -1,0 +1,16 @@
+date,department,supplier,description,amount
+2024-01-05,Highways,Tarmac Ltd,Road resurfacing - High Street,45200.00
+2024-01-08,Social Care,Sunrise Care Homes,Residential care placement,12800.00
+2024-01-10,Highways,Tarmac Ltd,Pothole repairs - Park Road,3150.00
+2024-01-12,IT,Softworks Ltd,Annual software licence,18500.00
+2024-01-15,Social Care,Sunrise Care Homes,Residential care placement,12800.00
+2024-01-18,Parks,Green Spaces Co,Grounds maintenance Q1,9750.00
+2024-01-20,Highways,Tarmac Ltd,Road resurfacing - Station Road,38600.00
+2024-01-22,IT,CloudHost Ltd,Server hosting Q1,7200.00
+2024-01-25,Social Care,CareFirst,Home care hours,6400.00
+2024-01-28,Parks,Green Spaces Co,Tree surgery,2100.00
+2024-02-02,Highways,Tarmac Ltd,Road marking renewal,5800.00
+2024-02-05,IT,Softworks Ltd,Consultancy,4500.00
+2024-02-08,Social Care,Sunrise Care Homes,Residential care placement,12800.00
+2024-02-12,Parks,Green Spaces Co,Grounds maintenance Q1 (additional),1850.00
+2024-02-15,Social Care,CareFirst,Home care hours,7200.00
